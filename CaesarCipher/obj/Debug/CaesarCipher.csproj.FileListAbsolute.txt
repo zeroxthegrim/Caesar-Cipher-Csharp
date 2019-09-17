@@ -1,0 +1,15 @@
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe.config
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.pdb
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\MainWindow.g.cs
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\App.g.cs
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher_MarkupCompile.cache
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher_MarkupCompile.lref
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\MainWindow.baml
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.g.resources
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.Properties.Resources.resources
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.GenerateResource.cache
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe
+C:\Users\Niksa\source\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.pdb
